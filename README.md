@@ -64,11 +64,7 @@ Ask me anything <a href="https://github.com/rajharsh5450/rajharsh5450/issues/new
 ---
 
 ### :fire: My Stats :
-
-<a href="https://github.com/rajharsh5450">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajharsh5450&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Harsh's Github Stats">
-</a>
-<br>
+[![GitHub Stats]](https://github-readme-stats.vercel.app/api?username=rajharsh5450&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajharsh5450&theme=dark&background=000000)](https://git.io/streak-stats)
 
