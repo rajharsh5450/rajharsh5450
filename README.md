@@ -23,7 +23,7 @@ Ask me anything <a href="https://github.com/rajharsh5450/rajharsh5450/issues/new
 
 ## :chart: GitHub Activity
 
-[![Vineel Sai](https://github-readme-activity-graph.cyclic.app/graph?username=vineelsai26&bg_color=000000&color=6CE287&line=FFEE4A&point=FE9600)](https://vineelsai.com)
+[![Vineel Sai](https://github-readme-activity-graph.cyclic.app/graph?username=rajharsh5450&bg_color=000000&color=6CE287&line=FFEE4A&point=FE9600)](https://vineelsai.com)
 
 ---
 
